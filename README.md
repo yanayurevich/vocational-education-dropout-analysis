@@ -135,7 +135,7 @@ Segmentation by `Course_Completion_Rate` does separate groups (60% / 43% / 20% d
 
 ## 📊 Phase 5 — Share
 
-**Dashboard:** *What Drives Dropout? A Data-Quality Investigation* — [Tableau Public link]
+**Dashboard:** *What Drives Dropout? A Data-Quality Investigation* —https://public.tableau.com/views/DropoutAnalysisDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ![Dashboard preview](tableau/screenshots/dashboard.png)
 
