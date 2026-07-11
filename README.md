@@ -205,5 +205,5 @@ Recommendations reframed for the data-quality reality:
 
 ## 👤 Author
 
-_[Your name]_ — aspiring Junior Data Analyst, with 7 years of prior experience as an English teacher for adult learners.
-[LinkedIn] · [Email]
+Yana Yurevich — aspiring Junior Data Analyst, with 7 years of prior experience as an English teacher for adult learners.
+www.linkedin.com/in/yana-yurevich-📎-2185913a6 · yana.yurevich@icloud.com
